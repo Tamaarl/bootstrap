@@ -1,0 +1,15 @@
+header{
+min-height: 200px;
+width: 100%;
+}
+
+.btn{
+    border-color: crimson;
+    border-top-width: 10px;
+    border-bottom-width: 10px;
+}
+
+footer{
+    min-height: 200px;
+    width: 100%;
+}
